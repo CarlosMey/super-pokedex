@@ -1,3 +1,11 @@
+### Considerations
+- Nodejs 16
+- Vue 3
+
+### See de Proyect deployed
+sh
+https://carlosmey.github.io/super-pokedex/#/listpokemon
+
 # super-pokedex
 
 ## Project setup
