@@ -3,7 +3,6 @@
 - Vue 3
 
 ### See de Proyect deployed
-sh
 https://carlosmey.github.io/super-pokedex/#/listpokemon
 
 # super-pokedex
