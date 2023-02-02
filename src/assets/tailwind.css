@@ -1,0 +1,12 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.verde{
+    @apply text-emerald-600; 
+}
+.rojo{
+    @apply text-red-500;
+}
